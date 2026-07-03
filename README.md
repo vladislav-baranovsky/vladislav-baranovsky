@@ -12,14 +12,15 @@ I am currently looking for **PHP Backend Developer** roles. If you are a recruit
 <a href="https://linkedin.com/in/vladislav-baranovsky/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=flat-square&logoColor=white"></a>
 </p>
 
-
 ### Technologies I use
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat-square&logo=php&logoColor=white">
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=white">
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Docker Compose" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F03C2E?style=flat-square&logo=git&logoColor=white">
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx">
 </p>
 
 ### Featured Projects
