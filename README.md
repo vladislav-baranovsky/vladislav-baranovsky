@@ -9,7 +9,6 @@ I am currently looking for **PHP Backend Developer** roles. If you are a recruit
 <p>
 <a href="https://t.me/vladislavbaranovsky99"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=white"></a>
 <a href="mailto:rintales@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/rintales%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/vladislav-baranovsky/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230a66c2?style=flat-square&logoColor=white"></a>
 </p>
 
 ### Technologies I use
