@@ -3,7 +3,7 @@
 I am a **PHP Backend Developer** with 4+ years of experience from <img src="https://cdn-icons-png.flaticon.com/128/206/206717.png" height="13" /> <b>Minsk, Belarus</b>, specializing in building scalable and robust web applications and REST APIs. I focus on writing clean and maintainable code. I am curious about system design and DevOps
 
 ### Looking for a job
-I am currently looking for **PHP Backend Developer** roles. If you are a recruiter, please take a look at my [resume](https://drive.google.com/file/d/1m5ZF9V3S44jXGKTfOMCf3lrBeJmNwVmX/view).</br>
+I am currently looking for **PHP Backend Developer** roles.
 
 ### Contact me!
 <p>
